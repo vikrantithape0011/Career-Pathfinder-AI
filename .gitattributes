@@ -1,0 +1,2 @@
+# Remove all Git LFS tracking rules
+*.pkl filter=lfs diff=lfs merge=lfs -text
