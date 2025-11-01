@@ -1,0 +1,1449 @@
+{
+    "careers": {
+        "AI/ML Specialist": {
+            "description": "Professionals who develop and implement artificial intelligence and machine learning solutions",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 85,
+                    "class_12": 85
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    },
+                    {
+                        "name": "M.Tech in AI/ML",
+                        "duration": "2 years",
+                        "institutions": ["IITs", "IIITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Python", "TensorFlow", "Deep Learning", "Data Analysis"],
+            "certifications": ["Google AI Certification", "IBM AI Engineering", "DeepLearning.AI"],
+            "growth_opportunities": [
+                "Senior AI Engineer",
+                "AI Research Scientist",
+                "AI Solutions Architect"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "IAS Officer": {
+            "description": "Civil service officers who work in various government departments and ministries",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["General Studies", "Optional Subject"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "Any Bachelor's Degree",
+                        "duration": "3 years",
+                        "institutions": ["Any Recognized University"]
+                    }
+                ]
+            },
+            "skills": ["Administration", "Policy Making", "Decision Making", "Leadership"],
+            "certifications": ["UPSC Civil Services"],
+            "growth_opportunities": [
+                "District Magistrate",
+                "Secretary to Government",
+                "Cabinet Secretary"
+            ],
+            "salary_range": {
+                "entry": "56,100 - 1,32,000",
+                "mid": "1,32,000 - 2,18,200",
+                "senior": "2,18,200 - 2,50,000"
+            }
+        },
+        "IPS Officer": {
+            "description": "Police service officers responsible for law enforcement and public safety",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["General Studies", "Optional Subject"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "Any Bachelor's Degree",
+                        "duration": "3 years",
+                        "institutions": ["Any Recognized University"]
+                    }
+                ]
+            },
+            "skills": ["Law Enforcement", "Leadership", "Decision Making", "Crisis Management"],
+            "certifications": ["UPSC Civil Services"],
+            "growth_opportunities": [
+                "Superintendent of Police",
+                "Deputy Inspector General",
+                "Director General of Police"
+            ],
+            "salary_range": {
+                "entry": "56,100 - 1,32,000",
+                "mid": "1,32,000 - 2,18,200",
+                "senior": "2,18,200 - 2,50,000"
+            }
+        },
+        "IFS Officer": {
+            "description": "Foreign service officers representing India in international relations",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["General Studies", "Optional Subject"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "Any Bachelor's Degree",
+                        "duration": "3 years",
+                        "institutions": ["Any Recognized University"]
+                    }
+                ]
+            },
+            "skills": ["Diplomacy", "International Relations", "Languages", "Negotiation"],
+            "certifications": ["UPSC Civil Services"],
+            "growth_opportunities": [
+                "First Secretary",
+                "Ambassador",
+                "High Commissioner"
+            ],
+            "salary_range": {
+                "entry": "56,100 - 1,32,000",
+                "mid": "1,32,000 - 2,18,200",
+                "senior": "2,18,200 - 2,50,000"
+            }
+        },
+        "IRS Officer": {
+            "description": "Revenue service officers managing tax administration and policy",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["General Studies", "Optional Subject"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "Any Bachelor's Degree",
+                        "duration": "3 years",
+                        "institutions": ["Any Recognized University"]
+                    }
+                ]
+            },
+            "skills": ["Tax Administration", "Financial Analysis", "Policy Making", "Leadership"],
+            "certifications": ["UPSC Civil Services"],
+            "growth_opportunities": [
+                "Additional Commissioner",
+                "Principal Commissioner",
+                "Chief Commissioner"
+            ],
+            "salary_range": {
+                "entry": "56,100 - 1,32,000",
+                "mid": "1,32,000 - 2,18,200",
+                "senior": "2,18,200 - 2,50,000"
+            }
+        },
+        "IES Officer": {
+            "description": "Engineering service officers in various government departments",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Mathematics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in any branch",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Engineering", "Project Management", "Technical Leadership", "Policy Making"],
+            "certifications": ["UPSC Engineering Services"],
+            "growth_opportunities": [
+                "Chief Engineer",
+                "Additional Chief Engineer",
+                "Principal Chief Engineer"
+            ],
+            "salary_range": {
+                "entry": "56,100 - 1,32,000",
+                "mid": "1,32,000 - 2,18,200",
+                "senior": "2,18,200 - 2,50,000"
+            }
+        },
+        "Software Engineer": {
+            "description": "Professionals who design, develop, and maintain software applications",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Programming", "Software Design", "Problem Solving", "Team Collaboration"],
+            "certifications": ["AWS Certified Developer", "Microsoft Certified Developer", "Google Cloud Developer"],
+            "growth_opportunities": [
+                "Senior Software Engineer",
+                "Technical Lead",
+                "Software Architect"
+            ],
+            "salary_range": {
+                "entry": "4-8 LPA",
+                "mid": "8-15 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Data Scientist": {
+            "description": "Professionals who analyze complex data to help organizations make better decisions",
+            "educational_requirements": {
+                "stream": "Science/Commerce",
+                "subjects": ["Mathematics", "Statistics", "Computer Science"],
+                "min_scores": {
+                    "class_10": 80,
+                    "class_12": 80
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    },
+                    {
+                        "name": "M.Sc in Data Science",
+                        "duration": "2 years",
+                        "institutions": ["IITs", "IIITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Python", "R", "SQL", "Machine Learning", "Data Visualization"],
+            "certifications": ["IBM Data Science", "Google Data Analytics", "SAS Data Science"],
+            "growth_opportunities": [
+                "Senior Data Scientist",
+                "Data Science Manager",
+                "Chief Data Officer"
+            ],
+            "salary_range": {
+                "entry": "6-10 LPA",
+                "mid": "12-20 LPA",
+                "senior": "25-40 LPA"
+            }
+        },
+        "AI Engineer": {
+            "description": "Professionals who develop and implement artificial intelligence solutions",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 85,
+                    "class_12": 85
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    },
+                    {
+                        "name": "M.Tech in AI/ML",
+                        "duration": "2 years",
+                        "institutions": ["IITs", "IIITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Python", "Deep Learning", "Neural Networks", "Machine Learning"],
+            "certifications": ["Google AI Certification", "IBM AI Engineering", "DeepLearning.AI"],
+            "growth_opportunities": [
+                "Senior AI Engineer",
+                "AI Research Scientist",
+                "AI Solutions Architect"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "Cloud Architect": {
+            "description": "Professionals who design and manage cloud computing infrastructure",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Cloud Computing", "System Design", "DevOps", "Security"],
+            "certifications": ["AWS Solutions Architect", "Azure Solutions Architect", "Google Cloud Architect"],
+            "growth_opportunities": [
+                "Senior Cloud Architect",
+                "Cloud Infrastructure Manager",
+                "Cloud Solutions Director"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "DevOps Engineer": {
+            "description": "Professionals who combine software development and IT operations",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "Cloud Platforms"],
+            "certifications": ["AWS DevOps Engineer", "Azure DevOps Engineer", "Docker Certified Associate"],
+            "growth_opportunities": [
+                "Senior DevOps Engineer",
+                "DevOps Manager",
+                "DevOps Architect"
+            ],
+            "salary_range": {
+                "entry": "6-10 LPA",
+                "mid": "12-20 LPA",
+                "senior": "25-40 LPA"
+            }
+        },
+        "Medical Doctor": {
+            "description": "Healthcare professionals who diagnose and treat medical conditions",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Biology"],
+                "min_scores": {
+                    "class_10": 85,
+                    "class_12": 85
+                },
+                "degrees": [
+                    {
+                        "name": "MBBS",
+                        "duration": "5.5 years",
+                        "institutions": ["AIIMS", "Top Medical Colleges"]
+                    },
+                    {
+                        "name": "MD/MS (Specialization)",
+                        "duration": "3 years",
+                        "institutions": ["Top Medical Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Clinical Diagnosis", "Patient Care", "Medical Knowledge", "Communication"],
+            "certifications": ["Medical License", "Specialization Certifications"],
+            "growth_opportunities": [
+                "Senior Doctor",
+                "Department Head",
+                "Hospital Administrator"
+            ],
+            "salary_range": {
+                "entry": "50,000 - 1,00,000",
+                "mid": "1,00,000 - 2,00,000",
+                "senior": "2,00,000+"
+            }
+        },
+        "Ayurvedic Doctor": {
+            "description": "Healthcare professionals practicing traditional Ayurvedic medicine",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Biology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "BAMS (Bachelor of Ayurvedic Medicine and Surgery)",
+                        "duration": "5.5 years",
+                        "institutions": ["Ayurvedic Medical Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Ayurvedic Medicine", "Herbal Medicine", "Patient Care", "Traditional Knowledge"],
+            "certifications": ["Ayurvedic License", "Specialization Certifications"],
+            "growth_opportunities": [
+                "Senior Ayurvedic Doctor",
+                "Clinic Owner",
+                "Ayurvedic Hospital Administrator"
+            ],
+            "salary_range": {
+                "entry": "30,000 - 60,000",
+                "mid": "60,000 - 1,20,000",
+                "senior": "1,20,000+"
+            }
+        },
+        "Homeopathic Doctor": {
+            "description": "Healthcare professionals practicing homeopathic medicine",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Biology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "BHMS (Bachelor of Homeopathic Medicine and Surgery)",
+                        "duration": "5.5 years",
+                        "institutions": ["Homeopathic Medical Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Homeopathic Medicine", "Patient Care", "Case Analysis", "Traditional Knowledge"],
+            "certifications": ["Homeopathic License", "Specialization Certifications"],
+            "growth_opportunities": [
+                "Senior Homeopathic Doctor",
+                "Clinic Owner",
+                "Homeopathic Hospital Administrator"
+            ],
+            "salary_range": {
+                "entry": "30,000 - 60,000",
+                "mid": "60,000 - 1,20,000",
+                "senior": "1,20,000+"
+            }
+        },
+        "Dental Surgeon": {
+            "description": "Healthcare professionals specializing in oral health and dental care",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Biology"],
+                "min_scores": {
+                    "class_10": 85,
+                    "class_12": 85
+                },
+                "degrees": [
+                    {
+                        "name": "BDS (Bachelor of Dental Surgery)",
+                        "duration": "5 years",
+                        "institutions": ["Dental Colleges"]
+                    },
+                    {
+                        "name": "MDS (Master of Dental Surgery)",
+                        "duration": "3 years",
+                        "institutions": ["Dental Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Dental Procedures", "Oral Surgery", "Patient Care", "Dental Technology"],
+            "certifications": ["Dental License", "Specialization Certifications"],
+            "growth_opportunities": [
+                "Senior Dental Surgeon",
+                "Dental Clinic Owner",
+                "Dental Hospital Administrator"
+            ],
+            "salary_range": {
+                "entry": "40,000 - 80,000",
+                "mid": "80,000 - 1,50,000",
+                "senior": "1,50,000+"
+            }
+        },
+        "Ayurvedic Pharmacist": {
+            "description": "Professionals who prepare and dispense Ayurvedic medicines",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Biology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Pharm in Ayurvedic Pharmacy",
+                        "duration": "4 years",
+                        "institutions": ["Pharmacy Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Ayurvedic Medicine Preparation", "Herbal Knowledge", "Quality Control", "Inventory Management"],
+            "certifications": ["Pharmacy License", "Ayurvedic Certification"],
+            "growth_opportunities": [
+                "Senior Pharmacist",
+                "Pharmacy Manager",
+                "Pharmaceutical Company Executive"
+            ],
+            "salary_range": {
+                "entry": "25,000 - 50,000",
+                "mid": "50,000 - 1,00,000",
+                "senior": "1,00,000+"
+            }
+        },
+        "Chartered Accountant": {
+            "description": "Financial professionals who provide accounting and financial advisory services",
+            "educational_requirements": {
+                "stream": "Commerce",
+                "subjects": ["Accountancy", "Business Studies", "Economics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "CA Foundation",
+                        "duration": "3 years",
+                        "institutions": ["ICAI"]
+                    }
+                ]
+            },
+            "skills": ["Accounting", "Taxation", "Auditing", "Financial Analysis"],
+            "certifications": ["Chartered Accountant (CA)", "Additional Professional Certifications"],
+            "growth_opportunities": [
+                "Senior CA",
+                "Partner in CA Firm",
+                "Financial Director"
+            ],
+            "salary_range": {
+                "entry": "6-8 LPA",
+                "mid": "12-20 LPA",
+                "senior": "25-40 LPA"
+            }
+        },
+        "Investment Banker": {
+            "description": "Financial professionals who help companies raise capital and provide financial advisory services",
+            "educational_requirements": {
+                "stream": "Commerce/Science",
+                "subjects": ["Mathematics", "Economics", "Business Studies"],
+                "min_scores": {
+                    "class_10": 85,
+                    "class_12": 85
+                },
+                "degrees": [
+                    {
+                        "name": "B.Com/BBA/B.Tech",
+                        "duration": "3-4 years",
+                        "institutions": ["Top Universities"]
+                    },
+                    {
+                        "name": "MBA in Finance",
+                        "duration": "2 years",
+                        "institutions": ["Top Business Schools"]
+                    }
+                ]
+            },
+            "skills": ["Financial Modeling", "Valuation", "Deal Structuring", "Client Management"],
+            "certifications": ["CFA", "FRM", "Investment Banking Certifications"],
+            "growth_opportunities": [
+                "Senior Investment Banker",
+                "Director",
+                "Managing Director"
+            ],
+            "salary_range": {
+                "entry": "12-15 LPA",
+                "mid": "25-40 LPA",
+                "senior": "50-100 LPA"
+            }
+        },
+        "Actuary": {
+            "description": "Professionals who analyze financial risks using mathematics and statistics",
+            "educational_requirements": {
+                "stream": "Science/Commerce",
+                "subjects": ["Mathematics", "Statistics", "Economics"],
+                "min_scores": {
+                    "class_10": 85,
+                    "class_12": 85
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc/B.Com in Statistics/Mathematics",
+                        "duration": "3 years",
+                        "institutions": ["Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Risk Analysis", "Statistical Modeling", "Financial Mathematics", "Insurance"],
+            "certifications": ["Actuarial Exams", "Professional Actuary Certification"],
+            "growth_opportunities": [
+                "Senior Actuary",
+                "Chief Actuary",
+                "Risk Management Director"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "Financial Analyst": {
+            "description": "Professionals who analyze financial data to help with investment decisions",
+            "educational_requirements": {
+                "stream": "Commerce/Science",
+                "subjects": ["Mathematics", "Economics", "Business Studies"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Com/BBA/B.Tech",
+                        "duration": "3-4 years",
+                        "institutions": ["Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Financial Analysis", "Data Analysis", "Excel", "Financial Modeling"],
+            "certifications": ["CFA", "Financial Modeling Certifications"],
+            "growth_opportunities": [
+                "Senior Financial Analyst",
+                "Portfolio Manager",
+                "Investment Manager"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "Stock Market Trader": {
+            "description": "Professionals who buy and sell securities in financial markets",
+            "educational_requirements": {
+                "stream": "Commerce/Science",
+                "subjects": ["Mathematics", "Economics", "Business Studies"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Com/BBA/B.Tech",
+                        "duration": "3-4 years",
+                        "institutions": ["Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Market Analysis", "Trading Strategies", "Risk Management", "Technical Analysis"],
+            "certifications": ["NSE/BSE Certification", "Trading Certifications"],
+            "growth_opportunities": [
+                "Senior Trader",
+                "Portfolio Manager",
+                "Trading Director"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "UX Designer": {
+            "description": "Professionals who design user experiences for digital products and services",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Design", "Computer Science", "Psychology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Des in UX Design",
+                        "duration": "4 years",
+                        "institutions": ["Design Schools", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["User Research", "Wireframing", "Prototyping", "Visual Design"],
+            "certifications": ["Google UX Design", "Interaction Design Foundation", "UX Design Institute"],
+            "growth_opportunities": [
+                "Senior UX Designer",
+                "UX Manager",
+                "UX Director"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "Digital Artist": {
+            "description": "Creative professionals who create digital artwork and illustrations",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Fine Arts", "Computer Science", "Design"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Des in Digital Arts",
+                        "duration": "4 years",
+                        "institutions": ["Design Schools", "Art Institutes"]
+                    }
+                ]
+            },
+            "skills": ["Digital Drawing", "Animation", "Color Theory", "Digital Tools"],
+            "certifications": ["Adobe Certified Expert", "Digital Art Certifications"],
+            "growth_opportunities": [
+                "Senior Digital Artist",
+                "Art Director",
+                "Creative Director"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Animation Artist": {
+            "description": "Professionals who create animated content for various media",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Fine Arts", "Computer Science", "Design"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Des in Animation",
+                        "duration": "4 years",
+                        "institutions": ["Animation Schools", "Art Institutes"]
+                    }
+                ]
+            },
+            "skills": ["2D/3D Animation", "Character Design", "Storyboarding", "Motion Graphics"],
+            "certifications": ["Maya Certified Expert", "Animation Certifications"],
+            "growth_opportunities": [
+                "Senior Animator",
+                "Animation Director",
+                "Creative Director"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Fashion Designer": {
+            "description": "Creative professionals who design clothing and accessories",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Design", "Fine Arts", "Textiles"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Des in Fashion Design",
+                        "duration": "4 years",
+                        "institutions": ["Fashion Design Schools", "Art Institutes"]
+                    }
+                ]
+            },
+            "skills": ["Fashion Design", "Pattern Making", "Textile Knowledge", "Trend Analysis"],
+            "certifications": ["Fashion Design Certifications", "Textile Certifications"],
+            "growth_opportunities": [
+                "Senior Fashion Designer",
+                "Design Director",
+                "Creative Director"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Interior Designer": {
+            "description": "Professionals who design interior spaces for various purposes",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Design", "Fine Arts", "Architecture"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Des in Interior Design",
+                        "duration": "4 years",
+                        "institutions": ["Design Schools", "Architecture Institutes"]
+                    }
+                ]
+            },
+            "skills": ["Space Planning", "Color Theory", "Material Selection", "3D Modeling"],
+            "certifications": ["Interior Design Certifications", "AutoCAD Certification"],
+            "growth_opportunities": [
+                "Senior Interior Designer",
+                "Design Director",
+                "Creative Director"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Blockchain Developer": {
+            "description": "Professionals who develop blockchain-based applications and solutions",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Blockchain Development", "Smart Contracts", "Cryptography", "DApp Development"],
+            "certifications": ["Blockchain Certifications", "Ethereum Development", "Hyperledger"],
+            "growth_opportunities": [
+                "Senior Blockchain Developer",
+                "Blockchain Architect",
+                "Blockchain Director"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "Robotics Engineer": {
+            "description": "Professionals who design and develop robotic systems",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Physics", "Computer Science"],
+                "min_scores": {
+                    "class_10": 85,
+                    "class_12": 85
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Robotics/Mechanical/Electronics",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Robotics", "Control Systems", "Programming", "Mechanical Design"],
+            "certifications": ["Robotics Certifications", "ROS Certification"],
+            "growth_opportunities": [
+                "Senior Robotics Engineer",
+                "Robotics Architect",
+                "Robotics Director"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "AR/VR Developer": {
+            "description": "Professionals who develop augmented and virtual reality applications",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["AR/VR Development", "3D Modeling", "Unity/Unreal Engine", "Computer Vision"],
+            "certifications": ["AR/VR Certifications", "Unity Certified Developer"],
+            "growth_opportunities": [
+                "Senior AR/VR Developer",
+                "AR/VR Architect",
+                "AR/VR Director"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "Drone Pilot": {
+            "description": "Professionals who operate and maintain unmanned aerial vehicles",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Mathematics", "Computer Science"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Aeronautics/Electronics",
+                        "duration": "4 years",
+                        "institutions": ["Aeronautical Institutes", "Top Engineering Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Drone Operation", "Aerial Photography", "Navigation", "Maintenance"],
+            "certifications": ["Drone Pilot License", "UAV Operator Certification"],
+            "growth_opportunities": [
+                "Senior Drone Pilot",
+                "Drone Operations Manager",
+                "Drone Training Instructor"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "Space Scientist": {
+            "description": "Professionals who research and develop space technology",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Mathematics", "Chemistry"],
+                "min_scores": {
+                    "class_10": 90,
+                    "class_12": 90
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Aerospace/Physics",
+                        "duration": "4 years",
+                        "institutions": ["ISRO", "IITs", "Top Universities"]
+                    },
+                    {
+                        "name": "M.Tech/M.Sc in Space Science",
+                        "duration": "2 years",
+                        "institutions": ["ISRO", "IITs", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Space Technology", "Astrophysics", "Satellite Systems", "Research"],
+            "certifications": ["Space Science Certifications", "Research Certifications"],
+            "growth_opportunities": [
+                "Senior Space Scientist",
+                "Project Director",
+                "Research Director"
+            ],
+            "salary_range": {
+                "entry": "8-12 LPA",
+                "mid": "15-25 LPA",
+                "senior": "30-50 LPA"
+            }
+        },
+        "Ethical Hacker": {
+            "description": "Professionals who identify and fix security vulnerabilities in systems",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Mathematics", "Computer Science", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech/B.E in Computer Science/IT",
+                        "duration": "4 years",
+                        "institutions": ["IITs", "NITs", "Top Private Colleges"]
+                    }
+                ]
+            },
+            "skills": ["Penetration Testing", "Network Security", "Cryptography", "Security Tools"],
+            "certifications": ["CEH", "OSCP", "CompTIA Security+"],
+            "growth_opportunities": [
+                "Senior Security Analyst",
+                "Security Architect",
+                "Chief Security Officer"
+            ],
+            "salary_range": {
+                "entry": "6-10 LPA",
+                "mid": "12-20 LPA",
+                "senior": "25-40 LPA"
+            }
+        },
+        "Forensic Scientist": {
+            "description": "Professionals who analyze physical evidence for legal investigations",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Biology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc in Forensic Science",
+                        "duration": "3 years",
+                        "institutions": ["Forensic Science Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Evidence Analysis", "Laboratory Techniques", "Documentation", "Scientific Methods"],
+            "certifications": ["Forensic Science Certifications", "Laboratory Certifications"],
+            "growth_opportunities": [
+                "Senior Forensic Scientist",
+                "Forensic Laboratory Director",
+                "Forensic Consultant"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "Food Technologist": {
+            "description": "Professionals who develop and improve food products and processes",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Biology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Tech in Food Technology",
+                        "duration": "4 years",
+                        "institutions": ["Food Technology Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Food Processing", "Quality Control", "Product Development", "Food Safety"],
+            "certifications": ["Food Safety Certifications", "Quality Management Certifications"],
+            "growth_opportunities": [
+                "Senior Food Technologist",
+                "Product Development Manager",
+                "Quality Control Director"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Gemologist": {
+            "description": "Professionals who study and evaluate gemstones",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Chemistry", "Mathematics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc in Gemology",
+                        "duration": "3 years",
+                        "institutions": ["Gemology Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Gem Identification", "Valuation", "Quality Assessment", "Market Analysis"],
+            "certifications": ["Gemological Certifications", "Diamond Grading Certifications"],
+            "growth_opportunities": [
+                "Senior Gemologist",
+                "Gem Laboratory Director",
+                "Gem Trading Expert"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Meteorologist": {
+            "description": "Professionals who study weather patterns and atmospheric conditions",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Physics", "Mathematics", "Chemistry"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc in Meteorology",
+                        "duration": "3 years",
+                        "institutions": ["Meteorological Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Weather Forecasting", "Climate Analysis", "Data Analysis", "Scientific Methods"],
+            "certifications": ["Meteorological Certifications", "Climate Science Certifications"],
+            "growth_opportunities": [
+                "Senior Meteorologist",
+                "Weather Station Director",
+                "Climate Research Scientist"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "Vedic Scholar": {
+            "description": "Professionals who study and teach ancient Vedic texts and traditions",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Sanskrit", "Philosophy", "History"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.A in Sanskrit/Vedic Studies",
+                        "duration": "3 years",
+                        "institutions": ["Vedic Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Vedic Knowledge", "Sanskrit", "Teaching", "Research"],
+            "certifications": ["Vedic Studies Certifications", "Teaching Certifications"],
+            "growth_opportunities": [
+                "Senior Vedic Scholar",
+                "Vedic Institute Director",
+                "Research Scholar"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Yoga Instructor": {
+            "description": "Professionals who teach yoga and meditation techniques",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Physical Education", "Biology", "Psychology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.A in Yoga/Physical Education",
+                        "duration": "3 years",
+                        "institutions": ["Yoga Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Yoga Techniques", "Anatomy", "Teaching", "Wellness"],
+            "certifications": ["Yoga Teacher Training", "Fitness Certifications"],
+            "growth_opportunities": [
+                "Senior Yoga Instructor",
+                "Yoga Studio Owner",
+                "Wellness Director"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Astrologer": {
+            "description": "Professionals who study celestial movements and their influence",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Mathematics", "Astronomy", "Philosophy"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.A in Astrology/Astronomy",
+                        "duration": "3 years",
+                        "institutions": ["Astrology Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Astrological Analysis", "Numerology", "Vedic Astrology", "Counseling"],
+            "certifications": ["Astrology Certifications", "Counseling Certifications"],
+            "growth_opportunities": [
+                "Senior Astrologer",
+                "Astrology Institute Director",
+                "Research Astrologer"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Ayurvedic Therapist": {
+            "description": "Professionals who provide Ayurvedic treatments and therapies",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Biology", "Chemistry", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "BAMS in Ayurvedic Therapy",
+                        "duration": "5.5 years",
+                        "institutions": ["Ayurvedic Institutes"]
+                    }
+                ]
+            },
+            "skills": ["Ayurvedic Therapies", "Herbal Medicine", "Patient Care", "Traditional Knowledge"],
+            "certifications": ["Ayurvedic Therapy Certifications", "Massage Therapy Certifications"],
+            "growth_opportunities": [
+                "Senior Ayurvedic Therapist",
+                "Therapy Center Director",
+                "Wellness Consultant"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Vastu Consultant": {
+            "description": "Professionals who provide Vastu Shastra consulting services",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Architecture", "Design", "Philosophy"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.A in Vastu Shastra",
+                        "duration": "3 years",
+                        "institutions": ["Vastu Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Vastu Analysis", "Space Planning", "Energy Flow", "Consulting"],
+            "certifications": ["Vastu Certifications", "Architecture Certifications"],
+            "growth_opportunities": [
+                "Senior Vastu Consultant",
+                "Vastu Institute Director",
+                "Architectural Consultant"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Agricultural Scientist": {
+            "description": "Professionals who research and develop agricultural methods and technologies",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Biology", "Chemistry", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc in Agriculture",
+                        "duration": "4 years",
+                        "institutions": ["Agricultural Universities", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Research Methods", "Crop Science", "Soil Science", "Data Analysis"],
+            "certifications": ["Agricultural Science Certifications", "Research Certifications"],
+            "growth_opportunities": [
+                "Senior Agricultural Scientist",
+                "Research Director",
+                "Agricultural Consultant"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "Agricultural Economist": {
+            "description": "Professionals who analyze agricultural markets and policies",
+            "educational_requirements": {
+                "stream": "Science/Commerce",
+                "subjects": ["Economics", "Mathematics", "Statistics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc in Agricultural Economics",
+                        "duration": "4 years",
+                        "institutions": ["Agricultural Universities", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Economic Analysis", "Market Research", "Policy Analysis", "Data Analysis"],
+            "certifications": ["Agricultural Economics Certifications", "Research Certifications"],
+            "growth_opportunities": [
+                "Senior Agricultural Economist",
+                "Research Director",
+                "Policy Consultant"
+            ],
+            "salary_range": {
+                "entry": "4-6 LPA",
+                "mid": "8-15 LPA",
+                "senior": "20-35 LPA"
+            }
+        },
+        "Organic Farmer": {
+            "description": "Professionals who practice organic farming methods",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Biology", "Chemistry", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc in Agriculture/Organic Farming",
+                        "duration": "4 years",
+                        "institutions": ["Agricultural Universities", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Organic Farming", "Crop Management", "Soil Health", "Sustainable Practices"],
+            "certifications": ["Organic Farming Certifications", "Agricultural Certifications"],
+            "growth_opportunities": [
+                "Farm Manager",
+                "Agricultural Consultant",
+                "Organic Farming Expert"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Horticulturist": {
+            "description": "Professionals who study and cultivate plants",
+            "educational_requirements": {
+                "stream": "Science",
+                "subjects": ["Biology", "Chemistry", "Physics"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Sc in Horticulture",
+                        "duration": "4 years",
+                        "institutions": ["Agricultural Universities", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Plant Science", "Crop Management", "Greenhouse Management", "Research"],
+            "certifications": ["Horticulture Certifications", "Agricultural Certifications"],
+            "growth_opportunities": [
+                "Senior Horticulturist",
+                "Research Director",
+                "Agricultural Consultant"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "Career Counselor": {
+            "description": "Professionals who guide individuals in career planning and development",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Psychology", "Sociology", "Education"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.A in Psychology/Counseling",
+                        "duration": "3 years",
+                        "institutions": ["Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Career Counseling", "Assessment Tools", "Interview Skills", "Career Planning"],
+            "certifications": ["Career Counseling Certifications", "Psychology Certifications"],
+            "growth_opportunities": [
+                "Senior Career Counselor",
+                "Career Center Director",
+                "Career Development Consultant"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        },
+        "School Teacher": {
+            "description": "Professionals who educate students in primary and secondary schools",
+            "educational_requirements": {
+                "stream": "Any",
+                "subjects": ["Education", "Subject Specialization", "Psychology"],
+                "min_scores": {
+                    "class_10": 75,
+                    "class_12": 75
+                },
+                "degrees": [
+                    {
+                        "name": "B.Ed",
+                        "duration": "2 years",
+                        "institutions": ["Teacher Training Institutes", "Top Universities"]
+                    }
+                ]
+            },
+            "skills": ["Teaching", "Classroom Management", "Curriculum Development", "Student Assessment"],
+            "certifications": ["Teaching Certifications", "Education Certifications"],
+            "growth_opportunities": [
+                "Senior Teacher",
+                "School Principal",
+                "Education Consultant"
+            ],
+            "salary_range": {
+                "entry": "3-5 LPA",
+                "mid": "6-12 LPA",
+                "senior": "15-30 LPA"
+            }
+        }
+    }
+} 

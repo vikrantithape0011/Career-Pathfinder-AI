@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f8fafc"/>
+    <!-- 7 triangles in different positions and colors -->
+    <polygon points="50,150 100,50 150,150" fill="#4f46e5" />
+    <polygon points="200,100 250,50 300,100" fill="#7c3aed" />
+    <polygon points="100,250 150,200 200,250" fill="#2563eb" />
+    <polygon points="250,200 300,150 350,200" fill="#9333ea" />
+    <polygon points="150,300 200,350 250,300" fill="#3b82f6" />
+    <polygon points="50,350 100,300 150,350" fill="#6366f1" />
+    <polygon points="300,300 350,250 350,350" fill="#8b5cf6" />
+</svg> 

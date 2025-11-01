@@ -1,0 +1,8 @@
+    # requirements.txt
+    fastapi
+    uvicorn[standard]
+    scikit-learn==1.2.2  # Use the version from the warning
+    numpy==1.21.0        # Use the version you had, should be compatible
+    pandas               # Add pandas
+    joblib               # Add joblib
+    shap                 # Add shap
